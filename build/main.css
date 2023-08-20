@@ -1,0 +1,22 @@
+body {
+  background-color: #eee;
+}
+
+header {
+  background-color: #eee;
+}
+header h1 {
+  color: #111;
+}
+
+button {
+  padding: 16px;
+  background-color: #111;
+  color: #eee;
+}
+buttone:hover {
+  background-color: #eee;
+  color: #111;
+}
+
+/*# sourceMappingURL=main.css.map */
